@@ -1,4 +1,4 @@
-This program will convert a Europa Universalis IV save game to a Victoria II save game.
+This program will convert a Europa Universalis IV save game to a Victoria 3 save game.
 
 ----
 IMPORTANT LINKS
